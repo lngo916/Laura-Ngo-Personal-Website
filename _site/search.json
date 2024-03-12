@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Project Experience",
+    "section": "",
+    "text": "Here is my academic experience at UCLA."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laura Ngo Personal Website",
+    "section": "",
+    "text": "Hello, my name is Laura Ngo.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
