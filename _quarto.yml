@@ -9,6 +9,8 @@ website:
       - href: about.qmd
         text: Resume
       - href: projects.qmd
+        text: Academic Work
+      - href: coursework.qmd
         text: Academic Experience
 format:
   html:
