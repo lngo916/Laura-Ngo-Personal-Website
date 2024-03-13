@@ -1,5 +1,29 @@
 ---
-title: "Project Experience"
+title: "Academic Experience"
 ---
 
-Here is my academic experience at UCLA.
+Click on the corresponding link to view each project or essay. 
+
+## Statistical Analysis 
+
+1. [Decoding Film Sentiments: IMDB Sentiment Analysis](IMDB.pdf)
+
+2. [Diabetes Prognosis: Unveiling Risk Factors for Diabetes](NSDC.pdf)
+
+3. [Illuminating Beauty: An Analysis of Camera Lighting Influences on Perceived Attractiveness](STATS140XP.pdf)
+
+4. [Exploration of Factors and Impacts on UCLA Student GPA](STATS101A.pdf)
+
+
+
+## Extra Coursework
+
+1. [Exploring the World of Regular Polyhedra: A Journey into Gemoetric Symmetry](MATH106.pdf)
+
+2. [From the Perspective of the Perpheral](Japan70.pdf)
+
+3. [Goddess Durga and the Annihilation of the Demon Raktabija](ArtHist31.pdf)
+
+4. [Plague of Jersualem](ANNEA10W.pdf)
+
+5. [The Male Gaze: Women as a Femme Fatal](CLASSICAL30.pdf)

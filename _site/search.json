@@ -2,22 +2,43 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Resume",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Click the link below to view my updated resume.\nResume"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Project Experience",
+    "title": "Academic Experience",
     "section": "",
-    "text": "Here is my academic experience at UCLA."
+    "text": "Click on the corresponding link to view each project or essay."
+  },
+  {
+    "objectID": "projects.html#statistical-analysis",
+    "href": "projects.html#statistical-analysis",
+    "title": "Academic Experience",
+    "section": "Statistical Analysis",
+    "text": "Statistical Analysis\n\nDecoding Film Sentiments: IMDB Sentiment Analysis\nDiabetes Prognosis: Unveiling Risk Factors for Diabetes\nIlluminating Beauty: An Analysis of Camera Lighting Influences on Perceived Attractiveness\nExploration of Factors and Impacts on UCLA Student GPA"
+  },
+  {
+    "objectID": "projects.html#extra-coursework",
+    "href": "projects.html#extra-coursework",
+    "title": "Academic Experience",
+    "section": "Extra Coursework",
+    "text": "Extra Coursework\n\nExploring the World of Regular Polyhedra: A Journey into Gemoetric Symmetry\nFrom the Perspective of the Perpheral\nGoddess Durga and the Annihilation of the Demon Raktabija\nPlague of Jersualem\nThe Male Gaze: Women as a Femme Fatal"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Laura Ngo Personal Website",
+    "title": "",
     "section": "",
-    "text": "Hello, my name is Laura Ngo.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a current undergraduate at University of California, Los Angeles. As of now, I am a 4th year Statistics major, expecting to be graduated in June 2024. I am working toward becoming a Data Analyst.\nOn this website, I keep a list of my resume, essays, and academic experience."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "",
+    "section": "",
+    "text": "I am a current undergraduate at University of California, Los Angeles. As of now, I am a 4th year Statistics major, expecting to be graduated in June 2024. I am working toward becoming a Data Analyst.\nOn this website, I keep a list of my resume, essays, and academic experience."
   }
 ]

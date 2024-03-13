@@ -1,11 +1,20 @@
 ---
-title: "Laura Ngo Personal Website"
+toc: false
+about: 
+  template: trestles
+  links: 
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/laura-ngo-09799a182/
+    - text: Github 
+      icon: github
+      url: https://github.com/lngo916
+image: 3.jpeg
 ---
 
-Hello, my name is Laura Ngo.
+## Bio 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a current undergraduate at University of California, Los Angeles. As of now, I am a 4th year Statistics major, expecting to be graduated in June 2024. I am working toward becoming a Data Analyst. 
 
-```{r}
-1 + 1
-```
+On this website, I keep a list of my resume, essays, and academic experience.
+
+

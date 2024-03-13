@@ -7,9 +7,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Bio
+        text: Resume
       - href: projects.qmd
-        text: Projects
+        text: Academic Experience
 format:
   html:
     theme: cosmo

@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Resume"
 ---
 
-About this site
+Click the link below to view my updated resume. 
 
-```{r}
-1 + 1
-```
+[Resume](Updated Resume.pdf)
